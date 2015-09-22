@@ -1,5 +1,8 @@
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 
 
+# WIP
+###lots of broken links and stale content
+
 # Guides and Templates and Etc.
 BC Developers' Exchange Templates and Guideline Documents - All the information a BC Public Sector employee could ever want about GitHub
 
